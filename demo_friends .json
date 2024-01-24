@@ -1,5 +1,4 @@
-{
-  "usuarios": [
+[
     {
       "nombre_usuario": "player123",
       "edad": 25,
@@ -372,5 +371,4 @@
       "pais": "Estados Unidos"
     }
   ]
-}
 
