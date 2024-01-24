@@ -1,0 +1,376 @@
+{
+  "usuarios": [
+    {
+      "nombre_usuario": "player123",
+      "edad": 25,
+      "juegos": ["Fortnite", "Minecraft"],
+      "rango": "Intermedio",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "gamerGirl21",
+      "edad": 22,
+      "juegos": ["League of Legends", "Among Us"],
+      "rango": "Avanzado",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "proGamer99",
+      "edad": 30,
+      "juegos": ["Call of Duty", "FIFA", "Overwatch"],
+      "rango": "Experto",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "savagePlayer",
+      "edad": 28,
+      "juegos": ["Apex Legends", "CS:GO"],
+      "rango": "Pro",
+      "pais": "Estados Unidos"
+    },
+    {
+      "nombre_usuario": "ninjaMaster",
+      "edad": 23,
+      "juegos": ["Dota 2", "Hearthstone"],
+      "rango": "Maestro",
+      "pais": "Colombia"
+    },
+    {
+      "nombre_usuario": "speedyGamer",
+      "edad": 20,
+      "juegos": ["Rocket League", "Fortnite"],
+      "rango": "Avanzado",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "gamingQueen",
+      "edad": 27,
+      "juegos": ["World of Warcraft", "Overwatch"],
+      "rango": "Experta",
+      "pais": "Perú"
+    },
+    {
+      "nombre_usuario": "ultimatePlayer",
+      "edad": 32,
+      "juegos": ["Street Fighter", "Tekken"],
+      "rango": "Experto",
+      "pais": "Brasil"
+    },
+    {
+      "nombre_usuario": "cyberNerd",
+      "edad": 19,
+      "juegos": ["Minecraft", "Roblox"],
+      "rango": "Novato",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "gamerDude",
+      "edad": 26,
+      "juegos": ["Fortnite", "PUBG"],
+      "rango": "Intermedio",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "strategyMaster",
+      "edad": 29,
+      "juegos": ["Age of Empires", "Civilization"],
+      "rango": "Experto",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "pixelWarrior",
+      "edad": 24,
+      "juegos": ["Minecraft", "Terraria"],
+      "rango": "Avanzado",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "eliteGamer",
+      "edad": 31,
+      "juegos": ["Call of Duty", "Battlefield"],
+      "rango": "Pro",
+      "pais": "Estados Unidos"
+    },
+    {
+      "nombre_usuario": "eSportsChamp",
+      "edad": 28,
+      "juegos": ["Counter-Strike: Global Offensive", "Rainbow Six Siege"],
+      "rango": "Profesional",
+      "pais": "Estados Unidos"
+    },
+    {
+      "nombre_usuario": "cosmicExplorer",
+      "edad": 24,
+      "juegos": ["No Man's Sky", "Elite Dangerous"],
+      "rango": "Explorador",
+      "pais": "Canadá"
+    },
+    {
+      "nombre_usuario": "gamerFashionista",
+      "edad": 26,
+      "juegos": ["The Sims", "Stardew Valley"],
+      "rango": "Casual",
+      "pais": "Francia"
+    },
+    {
+      "nombre_usuario": "cyberArtist",
+      "edad": 22,
+      "juegos": ["Minecraft", "Roblox"],
+      "rango": "Creativo",
+      "pais": "Italia"
+    },
+    {
+      "nombre_usuario": "stealthGamer",
+      "edad": 30,
+      "juegos": ["Splinter Cell", "Hitman"],
+      "rango": "Sigiloso",
+      "pais": "Reino Unido"
+    },
+    {
+      "nombre_usuario": "futureGamer",
+      "edad": 19,
+      "juegos": ["Cyberpunk 2077", "Deus Ex"],
+      "rango": "Futurista",
+      "pais": "Alemania"
+    },
+    {
+      "nombre_usuario": "gamerHistorian",
+      "edad": 35,
+      "juegos": ["Assassin's Creed", "Red Dead Redemption"],
+      "rango": "Histórico",
+      "pais": "Australia"
+    },
+    {
+      "nombre_usuario": "strategicChef",
+      "edad": 28,
+      "juegos": ["Cooking Simulator", "Overcooked"],
+      "rango": "Gastronómico",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "gamerNomad",
+      "edad": 31,
+      "juegos": ["The Witcher", "Skyrim"],
+      "rango": "Nómada",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "musicGamer",
+      "edad": 27,
+      "juegos": ["Beat Saber", "Guitar Hero"],
+      "rango": "Melódico",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "cyberAthlete",
+      "edad": 23,
+      "juegos": ["Rocket League", "FIFA"],
+      "rango": "Atleta Electrónico",
+      "pais": "Brasil"
+    },
+    {
+      "nombre_usuario": "galacticExplorer",
+      "edad": 29,
+      "juegos": ["Starbound", "No Man's Sky"],
+      "rango": "Explorador Galáctico",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "gamerBookworm",
+      "edad": 26,
+      "juegos": ["The Elder Scrolls", "Dragon Age"],
+      "rango": "Bibliófilo",
+      "pais": "Canadá"
+    },
+    {
+      "nombre_usuario": "pixelArtist",
+      "edad": 25,
+      "juegos": ["Pixel Art Academy", "Stardew Valley"],
+      "rango": "Artista de Píxeles",
+      "pais": "Estados Unidos"
+    },
+    {
+      "nombre_usuario": "medievalGamer",
+      "edad": 32,
+      "juegos": ["Mount & Blade", "Kingdom Come: Deliverance"],
+      "rango": "Medievalista",
+      "pais": "Reino Unido"
+    },
+    {
+      "nombre_usuario": "gamerAdventurer",
+      "edad": 24,
+      "juegos": ["The Legend of Zelda", "Skyrim"],
+      "rango": "Aventurero",
+      "pais": "Francia"
+    },
+    {
+      "nombre_usuario": "cyberMagician",
+      "edad": 27,
+      "juegos": ["Magicka", "The Witcher"],
+      "rango": "Mago Digital",
+      "pais": "Italia"
+    },
+    {
+      "nombre_usuario": "gamerTechGuru",
+      "edad": 30,
+      "juegos": ["PC Building Simulator", "Cyberpunk 2077"],
+      "rango": "Gurú Tecnológico",
+      "pais": "Alemania"
+    },
+    {
+      "nombre_usuario": "futureWarrior",
+      "edad": 19,
+      "juegos": ["Halo", "Titanfall"],
+      "rango": "Guerrero Futurista",
+      "pais": "Australia"
+    },
+    {
+      "nombre_usuario": "gamerSculptor",
+      "edad": 35,
+      "juegos": ["SculptrVR", "Minecraft"],
+      "rango": "Escultor Virtual",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "tacticalGamer",
+      "edad": 28,
+      "juegos": ["Rainbow Six Siege", "Arma 3"],
+      "rango": "Táctico",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "gamerTimeTraveler",
+      "edad": 31,
+      "juegos": ["Chrono Trigger", "Steins;Gate"],
+      "rango": "Viajero del Tiempo",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "fantasyGamer",
+      "edad": 23,
+      "juegos": ["The Elder Scrolls", "Dragon Age"],
+      "rango": "Fantástico",
+      "pais": "Brasil"
+    },
+    {
+      "nombre_usuario": "gamerAstronaut",
+      "edad": 29,
+      "juegos": ["Kerbal Space Program", "Elite Dangerous"],
+      "rango": "Astronauta Virtual",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "gamerScholar",
+      "edad": 26,
+      "juegos": ["Educational Games", "SimCity"],
+      "rango": "Erudito",
+      "pais": "Canadá"
+    },
+    {
+      "nombre_usuario": "cyberNinja",
+      "edad": 25,
+      "juegos": ["Nioh", "Sekiro: Shadows Die Twice"],
+      "rango": "Ninja Digital",
+      "pais": "Estados Unidos"
+    },
+    {
+      "nombre_usuario": "gamingMastermind",
+      "edad": 21,
+      "juegos": ["League of Legends", "DOTA 2"],
+      "rango": "Maestro",
+      "pais": "Colombia"
+    },
+    {
+      "nombre_usuario": "gamerChick",
+      "edad": 28,
+      "juegos": ["Overwatch", "Fortnite"],
+      "rango": "Experta",
+      "pais": "Perú"
+    },
+    {
+      "nombre_usuario": "darkPlayer",
+      "edad": 30,
+      "juegos": ["Dark Souls", "Bloodborne"],
+      "rango": "Experto",
+      "pais": "Brasil"
+    },
+    {
+      "nombre_usuario": "virtualExplorer",
+      "edad": 25,
+      "juegos": ["VRChat", "Beat Saber"],
+      "rango": "Intermedio",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "gamerGuru",
+      "edad": 26,
+      "juegos": ["Fortnite", "Apex Legends"],
+      "rango": "Avanzado",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "strategicMind",
+      "edad": 29,
+      "juegos": ["StarCraft II", "Command & Conquer"],
+      "rango": "Experto",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "explorerKid",
+      "edad": 19,
+      "juegos": ["Minecraft", "No Man's Sky"],
+      "rango": "Novato",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "nightmarePlayer",
+      "edad": 32,
+      "juegos": ["Dead by Daylight", "Resident Evil"],
+      "rango": "Experto",
+      "pais": "Perú"
+    },
+    {
+      "nombre_usuario": "gamerTechie",
+      "edad": 28,
+      "juegos": ["Cyberpunk 2077", "Watch Dogs"],
+      "rango": "Avanzado",
+      "pais": "Brasil"
+    },
+    {
+      "nombre_usuario": "gamingAdventurer",
+      "edad": 23,
+      "juegos": ["The Legend of Zelda", "Final Fantasy"],
+      "rango": "Maestro",
+      "pais": "México"
+    },
+    {
+      "nombre_usuario": "shadowPlayer",
+      "edad": 27,
+      "juegos": ["Assassin's Creed", "Metal Gear Solid"],
+      "rango": "Pro",
+      "pais": "Argentina"
+    },
+    {
+      "nombre_usuario": "galacticGamer",
+      "edad": 30,
+      "juegos": ["Mass Effect", "Elite Dangerous"],
+      "rango": "Experto",
+      "pais": "España"
+    },
+    {
+      "nombre_usuario": "cyberPilot",
+      "edad": 25,
+      "juegos": ["Star Wars: Squadrons", "EVE Online"],
+      "rango": "Intermedio",
+      "pais": "Chile"
+    },
+    {
+      "nombre_usuario": "magicGamer",
+      "edad": 31,
+      "juegos": ["Magic: The Gathering Arena", "Hearthstone"],
+      "rango": "Experto",
+      "pais": "Estados Unidos"
+    }
+  ]
+}
+
